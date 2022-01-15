@@ -44,9 +44,4 @@ function generatePassword() {
     );
   }
   copyToClipboard(passwordContainer.innerHTML);
-
-  //   window.prompt(
-  //     "Copy to clipboard: Ctrl+C, Enter",
-  //     passwordContainer.innerHTML
-  //   );
 }
