@@ -12,7 +12,7 @@ body {
 
 button {
   background: #60f;
-  font-size: 2em;
+  font-size: 2vw;
   cursor: pointer;
   color: white;
   border-radius: 5px;
@@ -28,6 +28,6 @@ button {
 h1 {
   color: white;
   margin-top: 2em;
-  font-size: 5em;
+  font-size: 4vw;
   letter-spacing: 0.5em;
 }
